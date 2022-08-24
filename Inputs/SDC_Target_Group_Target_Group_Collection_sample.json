@@ -1,0 +1,20 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"TargetGroupCollection": {
+		"ObjectID":"",           
+		"ETag":"",               
+		"ID":"1",                 
+		"LifeCycleStatusCode":"",
+		"Description":"",        
+		"MemberNumberValue":15,  
+		"SalesOrganizationID":"",
+		"EntityLastChangedOn":""
+	},
+	"api_schema": "TargetGroup",
+	"accepter": ["TargetGroupCollection"],
+	"target_group_code": "1",
+	"deleted": false
+}

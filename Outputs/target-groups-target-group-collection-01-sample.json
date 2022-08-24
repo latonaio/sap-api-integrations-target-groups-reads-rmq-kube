@@ -1,0 +1,18 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-target-groups-reads-rmq-kube/SAP_API_Caller/caller.go#L51",
+	"function": "sap-api-integrations-target-groups-reads-rmq-kube/SAP_API_Caller.(*SAPAPICaller).TargetGroupCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E03A0701ED28B9E854BDFCEF1C7",
+			"ETag": "2015-02-24T23:00:47+09:00",
+			"ID": "1",
+			"LifeCycleStatusCode": "3",
+			"Description": "Customers in CN",
+			"MemberNumberValue": 15,
+			"SalesOrganizationID": "",
+			"EntityLastChangedOn": "2015-02-24T23:00:47+09:00"
+		}
+	],
+	"time": "2022-08-09T12:19:26+09:00"
+}
